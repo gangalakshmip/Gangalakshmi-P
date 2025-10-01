@@ -1,6 +1,6 @@
 # 👩‍💻 Hi there, I'm Gangalakshmi Palraj  
 
-🎓 **Student** at *Kalasalingam Academy of Research and Education*  
+🎓 **Student** of *Kalasalingam Academy of Research and Education*  
 💻 Passionate about **Java Full-Stack Development** & **Python-based solutions**  
 ⚙️ Experienced in designing efficient architectures, writing clean & maintainable code, and delivering end-to-end solutions  
 🌱 Always learning emerging technologies and eager to contribute to impactful IT projects  
