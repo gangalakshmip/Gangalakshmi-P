@@ -24,8 +24,7 @@
 
 ## 📫 Connect with Me   
 - 📧 Email: gangalaxmi2506@gmail.com
--LinkedIn:www.linkedin.com/in/
-gangalakshmi-p-
+-LinkedIn:https://www.linkedin.com/in/gangalakshmi-p-87a445322
 
 ---
 
