@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Featured Projects  
-- 🍴 **College Canteen Website** – Streamlined food ordering & dining experience (HTML, CSS, JS)  
+- 🍴 **College Canteen Website** – Streamlined food ordering & dining experience (HTML + CSS + JS)  
 - 🔐 **Secure Email Authentication System** – Password + Face Recognition with liveness detection (Python + OpenCV)
 - 🚌 **A simple Bus Booking Website** - where users can select routes, choose a date, view buses, and book tickets (HTML + CSS + JavaScript)
 - 📊 **Data Structures & Algorithms Implementations** – Optimized coding solutions in Java & Python  
