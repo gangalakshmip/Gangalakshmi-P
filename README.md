@@ -1,4 +1,4 @@
-# 👩‍💻 Hi there, I'm Gangalakshmi Palraj  
+# 👩‍💻 Hey there! I'm Gangalakshmi Palraj  
 
 🎓 **Student** of *Kalasalingam Academy of Research and Education*  
 💻 Passionate about **Java Full-Stack Development** & **Python-based solutions**  
